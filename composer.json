@@ -1,0 +1,15 @@
+{
+    "name": "nasution/obfuscate",
+    "type": "library",
+    "keywords": ["obfuscate"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mulia Arifandi Nasution",
+            "email": "mul14.net@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["obfuscate.php"]
+    }
+}
